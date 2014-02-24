@@ -22,7 +22,7 @@ Scheme
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
-		"GoalOrange"		"255 133 0"
+		"GoalOrange"		"255 133 0 255"
 		"TFOrange"			"145 73 59 255"
 		
 		"White"				"235 235 235 255"
@@ -2466,6 +2466,16 @@ Scheme
 			}
 		}
 		
+		HighwayGothic54
+		{
+			"1"
+			{
+				"name"		"Highway Gothic"
+				"tall"		"54"
+				"antialias" "1"
+			}
+		}
+		
 		HighwayGothicCondensed12
 		{
 			"1"
@@ -2532,6 +2542,16 @@ Scheme
 			{
 				"name"		"Highway Gothic Condensed"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		HighwayGothicCondensed54
+		{
+			"1"
+			{
+				"name"		"Highway Gothic Condensed"
+				"tall"		"54"
 				"antialias" "1"
 			}
 		}
@@ -2606,6 +2626,16 @@ Scheme
 			}
 		}
 		
+		HighwayGothicExpanded54
+		{
+			"1"
+			{
+				"name"		"Highway Gothic Expanded"
+				"tall"		"54"
+				"antialias" "1"
+			}
+		}
+		
 		
 		BlueHighwayRegular12
 		{
@@ -2653,6 +2683,36 @@ Scheme
 			{
 				"name"		"BlueHighway-Regular"
 				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BlueHighwayRegular36
+		{
+			"1"
+			{
+				"name"		"BlueHighway-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		BlueHighwayRegular48
+		{
+			"1"
+			{
+				"name"		"BlueHighway-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		BlueHighwayRegular54
+		{
+			"1"
+			{
+				"name"		"BlueHighway-Regular"
+				"tall"		"54"
 				"antialias" "1"
 			}
 		}
@@ -2723,6 +2783,16 @@ Scheme
 			{
 				"name"		"BlueHighway-Bold"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		BlueHighwayBold54
+		{
+			"1"
+			{
+				"name"		"BlueHighway-Bold"
+				"tall"		"54"
 				"antialias" "1"
 			}
 		}
